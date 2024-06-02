@@ -40,6 +40,7 @@ Contributions are welcome! If you have any improvements or new features to sugge
 
 
 
+
 Enjoy playing Simon Says! If you have any questions or issues, feel free to [open an issue](https://https://github.com/Nitya-Kalloli).
 
 
