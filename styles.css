@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: #61778f;
+}
+
+.btn{
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+}
+.gameStart{
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  font-size: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.red{
+    background-color:rgb(202, 11, 11);
+}
+
+.yellow{
+    background-color:rgb(226, 226, 34);
+}
+
+.green{
+    background-color: rgb(18, 125, 18);
+}
+
+.purple{
+    background-color: rgb(13, 13, 165);
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: gray
+}
