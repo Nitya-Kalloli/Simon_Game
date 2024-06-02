@@ -44,8 +44,6 @@ Enjoy playing Simon Says! If you have any questions or issues, feel free to [ope
 
 
 
-
-
 ## Feedback
 
 If you have any feedback, please reach out to me at nityakalloli.dev@gmail.com
